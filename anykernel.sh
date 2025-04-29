@@ -1,6 +1,5 @@
 ### AnyKernel3 Ramdisk Mod Script
 ## osm0sis @ xda-developers
-ui_print   "dtbo_patch by 酷安@bybycode"
 #修补dtbo
 lfdtget=$MODPATH/bin/fdtget
 lfdtput=$MODPATH/bin/fdtput
@@ -135,4 +134,5 @@ else
     write_boot # use flash_boot to skip ramdisk repack, e.g. for devices with init_boot ramdisk
 fi
 flash_dtbo
+ui_print   "dtbo_patch by 酷安@bybycode"
 ## end boot install
