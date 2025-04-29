@@ -1,5 +1,6 @@
 ### AnyKernel3 Ramdisk Mod Script
 ## osm0sis @ xda-developers
+ui_print   "dtbo_patch by 酷安@bybycode"
 #修补dtbo
 lfdtget=$MODPATH/bin/fdtget
 lfdtput=$MODPATH/bin/fdtput
