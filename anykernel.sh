@@ -1,5 +1,5 @@
 ### AnyKernel3 Ramdisk Mod Script
-## osm0sis @ xda-developers
+## osm0sis @RunRuxka-XDA 2023
 ### AnyKernel setup
 # global properties
 #!/bin/bash
